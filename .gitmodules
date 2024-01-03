@@ -1,3 +1,3 @@
 [submodule "themes/diaspora"]
-	path = themes/diaspora
-	url = https://github.com/ryougi-shiky/hexo-theme-diaspora
+    path = themes/diaspora
+    url = https://github.com/ryougi-shiky/hexo-theme-diaspora
